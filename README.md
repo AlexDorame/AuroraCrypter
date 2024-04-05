@@ -12,5 +12,4 @@ One of the most powerfull crypters out there
 
 ## Disclaimer
 This project was made for educational purposes only. I am not responsible if you choose to use this illegally/maliciously.
-
-![image](https://github.com/AlexDorame/AuroraCrypter/assets/166144023/d371376b-e8f4-4dec-88a6-211e2f3b56d0)
+https://github.com/AlexDorame/AuroraCrypter/assets/166144023/1a2a58a0-f42d-4236-a4b9-3b52301e551b)
